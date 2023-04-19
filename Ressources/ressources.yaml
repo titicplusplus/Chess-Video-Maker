@@ -1,0 +1,307 @@
+---
+type:
+        - thinking
+        - sad
+        - waiting
+        - surprise
+        - badmove 
+        - movefast
+        - goodmove 
+        - win
+        - kill
+        - angry
+        - bugplayer
+
+size:
+        - all
+        - piece
+
+video:
+        - type: thinking #0
+          size: all
+          green: true
+          time: any
+        - type: waiting  #1
+          size: all
+          green: false
+          time: all
+        - type: surprise #2
+          size: all
+          green: true
+          time: all
+        - type: badmove #3
+          size: all
+          green: false
+          time:
+                - - 3.1
+                  - 5
+                - - 3.1
+                  - 10.5
+                - - 0
+                  - 10.5
+        - type: movefast #4
+          size: all
+          green: true
+          time: any
+        - type: goodmove, movefast #5
+          size: all
+          green: true
+          time:
+                  min: 2.6
+        - type: sad      #6
+          size: all, piece
+          green: true
+          time: any
+        - type: badmove #7
+          size: all
+          green: false
+          time: all
+        - type: badmove, surprise #8
+          size: all
+          green: false
+          time: any
+        - type: goodmove, win #9
+          size: piece
+          green: true
+          time:
+                  max: 9.5
+                  speed: 2
+        - type: surprise #10
+          size: all
+          green: false
+          time:
+                  - - 0.3
+                    - 2.1
+        - type: kill #11
+          size: all
+          green: true
+          time: 
+                  min: 0.9
+                  speed: 1.5
+        - type: win #12
+          size: all
+          green: true
+          time: any
+        - type: surprise #13
+          size: all, piece
+          green: true
+          time:
+                  min: 0.9
+                  max: 2.5
+        - type: surprise #14
+          size: piece
+          green: true
+          time:
+                  min: 0.1
+                  dmin: 1
+                  max: 3
+        - type: surprise #15
+          size: all
+          green: true
+          time:
+                  - - 0.1
+                    - 1
+        - type: sad, badmove #16
+          size: all
+          green: true
+          time: any
+        - type: sad, badmove #17
+          size: all
+          green: true
+          time: any
+        - type: sad, badmove #18
+          size: all
+          green: true
+          time:
+                  min: 3
+                  max: 6.5
+        - type: goodmove, win #19
+          size: piece
+          green: true
+          time:
+                  dmin: 2.5
+                  speed: 2
+        - type: movefast, goodmove, surprise #20
+          size: all
+          green: true
+          time:
+                  min: 0.1
+                  max: 1.8
+        - type: kill #21
+          size: all
+          green: true
+          time:
+                  min: 2.5
+                  max: 6
+        - type: goodmove, surprise #22
+          size: all
+          green: true
+          time:
+                  - - 2.5
+                    - 4.5
+        - type: surprise, angry #23
+          size: all
+          green: true
+          time: any
+        - type: badmove, surprise #24
+          size: all
+          green: false
+          time:
+                  - - 0
+                    - 1.5
+                  - - 0
+                    - 4
+        - type: badmove, surprise #25
+          size: all
+          green: false
+          time:
+                  - - 2
+                    - 4
+                  - - 1
+                    - 4
+        - type: movefast, win, goodmove #26
+          size: all
+          green: true
+          time: any
+        - type: badmove #27
+          size: all
+          green: true
+          time: any
+        - type: bugplayer #28
+          size: all
+          green: true
+          time: any
+        - type: surprise #29
+          size: all
+          green: true
+          time:
+                  min: 6.8
+        - type: goodmove, badmove, bugplayer #30
+          size: all
+          green: true
+          time: all
+        - type: badmove #31
+          size: all
+          green: false
+          time:
+                  - - 0.6
+                    - 1.8
+                  - - 0
+                    - 1.8
+        - type: kill #32
+          size: all
+          green: true
+          time:
+                  min: 3.5
+        - type: badmove, bugplayer #33
+          size: all
+          green: true
+          time:
+                  - - 0
+                    - 2
+        - type: badmove, bugplayer, sad, surprise #34
+          size: all
+          green: true
+          time:
+                  min: 0.1
+        - type: goodmove, win #35
+          size: all
+          green: true
+          time:
+                  min: 0.1
+        - type: kill #36
+          size: all
+          green: false
+          time:
+                  min: 0
+                  max: 40
+        - type: surprise #37
+          size: all
+          green: true
+          time:
+                  - - 0
+                    - 1
+        - type: goodmove, win #38
+          size: all
+          green: true
+          time:
+                  - - 0.8
+                    - 2
+                  - - 0
+                    - 2
+        - type: goodmove, win #39
+          size: all
+          green: true
+          time:
+                  min: 1
+        - type: kill #40
+          size: piece
+          green: true 
+          time:
+                  min: 2
+                  max: 8
+                  dmin: 4
+                  speed: 2
+        - type: badmove, bugplayer, goodmove #41
+          size: all
+          green: true 
+          time: all
+        - type: win, goodmove #42
+          size: all
+          green: true 
+          time:
+                  - - 0.5
+                    - 2
+                  - - 0.5
+                    - 5
+        - type: sad #43
+          size: all
+          green: true 
+          time: any
+        - type: goodmove #44
+          size: all
+          green: true 
+          time:
+                  - - 0.5
+                    - 1.8
+        - type: badmove #45
+          size: all
+          green: false
+          time:
+                  min: 0.5
+                  max: 10
+        - type: goodmove, win #46
+          size: all
+          green: true
+          time: any
+        - type: movefast #47
+          size: all
+          green: true
+          time: any
+        - type: sad, badmove #48
+          size: all
+          green: true
+          time:
+                  - - 4.5
+                    - 6
+        - type: kill #49
+          size: all
+          green: true
+          time:
+                  min: 1.2
+                  dmin: 2
+        - type: goodmove, surprise #50
+          size: all
+          green: true
+          time: any
+        - type: angry #51
+          size: all
+          green: true
+          time:
+                  - - 3.2
+                    - 4.8
+        - type: goodmove, surprise, bugplayer #52
+          size: all
+          green: true
+          time: any
+

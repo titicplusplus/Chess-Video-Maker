@@ -1,0 +1,5 @@
+<map id="Effect::Main" name="Effect::Main">
+<area shape="rect" id="node1" title="The main class for the effect." alt="" coords="130,5,229,32"/>
+<area shape="rect" id="node2" href="$classEffect_1_1GreenBackground.html" title=" " alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node3" href="$classEffect_1_1Voice.html" title=" " alt="" coords="212,80,315,107"/>
+</map>

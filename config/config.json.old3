@@ -1,0 +1,56 @@
+{
+	"frameRate" : 60,
+	"defaultTime": 40,
+	"0end": [
+		{
+			"fcam": true,
+			"cam": [0.5, 0.55, 0.5, 1, 1, 0.5],
+			"time": 20
+		},
+		{ 
+			"fcam" : true,
+			"cam" : [0.55, 1, 0.5],
+			"time": "Effect",
+			"Voice" : "Hi, today is the final day"
+		},
+		{ 
+			"fcam" : true,
+			"cam" : [0.55, 1, 0.5],
+			"time": "Effect",
+			"Voice" : "Because I will kill you"
+		},
+		{
+			"fcam": true,
+			"cam": [0.55, 0.55, 1, 0, 0.5, 0.5],
+			"time": 5
+		},
+		{
+			"fcam" : true,
+			"cam" : [0.55, 0, 0.5],
+			"time": "Effect",
+			"Voice" : "Impossible, you will die"
+		},
+		{
+			"fcam" : true,
+			"cam" : [0.55, 0, 0.5],
+			"time": "Effect",
+			"Voice" : "My brain is bigger than yours"
+		},
+		{
+			"fcam": true,
+			"cam": [0.55, 0.55, 0, 1, 0.5, 0.5],
+			"time": 5
+		},
+		{ 
+			"fcam" : true,
+			"cam" : [0.55, 1, 0.5],
+			"time": "Effect",
+			"Voice" : "So let's begin !"
+		},
+		{
+			"fcam": true,
+			"cam": [0.55, 0.5, 1, 0.5, 0.5, 1],
+			"time": 5
+		}	
+	]
+}

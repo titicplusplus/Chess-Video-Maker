@@ -1,0 +1,623 @@
+{
+ "automaker": [
+  {
+   "bestmove": "e2e4",
+   "bestmove_cp": 66,
+   "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+   "moveplayed": "d2d4",
+   "moveplayed_cp": 39,
+   "rating": -27
+  },
+  {
+   "bestmove": "g8f6",
+   "bestmove_cp": 39,
+   "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1",
+   "moveplayed": "d7d5",
+   "moveplayed_cp": 54,
+   "rating": -15
+  },
+  {
+   "bestmove": "c2c4",
+   "bestmove_cp": 54,
+   "fen": "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2",
+   "moveplayed": "c2c4",
+   "moveplayed_cp": 54,
+   "rating": 0
+  },
+  {
+   "bestmove": "c7c6",
+   "bestmove_cp": 54,
+   "fen": "rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2",
+   "moveplayed": "e7e6",
+   "moveplayed_cp": 44,
+   "rating": 10
+  },
+  {
+   "bestmove": "g1f3",
+   "bestmove_cp": 44,
+   "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+   "moveplayed": "g1f3",
+   "moveplayed_cp": 30,
+   "rating": -14
+  },
+  {
+   "bestmove": "d5c4",
+   "bestmove_cp": 30,
+   "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+   "moveplayed": "g8f6",
+   "moveplayed_cp": 68,
+   "rating": -38
+  },
+  {
+   "bestmove": "g2g3",
+   "bestmove_cp": 68,
+   "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
+   "moveplayed": "b1c3",
+   "moveplayed_cp": 38,
+   "rating": -30
+  },
+  {
+   "bestmove": "f8e7",
+   "bestmove_cp": 38,
+   "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 4",
+   "moveplayed": "h7h6",
+   "moveplayed_cp": 74,
+   "rating": -36
+  },
+  {
+   "bestmove": "g2g3",
+   "bestmove_cp": 74,
+   "fen": "rnbqkb1r/ppp2pp1/4pn1p/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5",
+   "moveplayed": "c1f4",
+   "moveplayed_cp": 51,
+   "rating": -23
+  },
+  {
+   "bestmove": "d5c4",
+   "bestmove_cp": 51,
+   "fen": "rnbqkb1r/ppp2pp1/4pn1p/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 0 5",
+   "moveplayed": "f8b4",
+   "moveplayed_cp": 75,
+   "rating": -24
+  },
+  {
+   "bestmove": "e2e3",
+   "bestmove_cp": 75,
+   "fen": "rnbqk2r/ppp2pp1/4pn1p/3p4/1bPP1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6",
+   "moveplayed": "e2e3",
+   "moveplayed_cp": 79,
+   "rating": 4
+  },
+  {
+   "bestmove": "c7c5",
+   "bestmove_cp": 79,
+   "fen": "rnbqk2r/ppp2pp1/4pn1p/3p4/1bPP1B2/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 6",
+   "moveplayed": "e8k2",
+   "moveplayed_cp": 91,
+   "rating": -12
+  },
+  {
+   "bestmove": "a1c1",
+   "bestmove_cp": 91,
+   "fen": "rnbq1rk1/ppp2pp1/4pn1p/3p4/1bPP1B2/2N1PN2/PP3PPP/R2QKB1R w KQ   - 0 7",
+   "moveplayed": "h2h3",
+   "moveplayed_cp": 2,
+   "rating": -89
+  },
+  {
+   "bestmove": "c7c5",
+   "bestmove_cp": 2,
+   "fen": "rnbq1rk1/ppp2pp1/4pn1p/3p4/1bPP1B2/2N1PN1P/PP3PP1/R2QKB1R b KQ   - 0 7",
+   "moveplayed": "b7b6",
+   "moveplayed_cp": 60,
+   "rating": -58
+  },
+  {
+   "bestmove": "d1b3",
+   "bestmove_cp": 60,
+   "fen": "rnbq1rk1/p1p2pp1/1p2pn1p/3p4/1bPP1B2/2N1PN1P/PP3PP1/R2QKB1R w KQ   - 0 8",
+   "moveplayed": "a1c1",
+   "moveplayed_cp": -5,
+   "rating": -65
+  },
+  {
+   "bestmove": "c7c5",
+   "bestmove_cp": -5,
+   "fen": "rnbq1rk1/p1p2pp1/1p2pn1p/3p4/1bPP1B2/2N1PN1P/PP3PP1/2RQKB1R b  Q   - 0 8",
+   "moveplayed": "c7c5",
+   "moveplayed_cp": -4,
+   "rating": -1
+  },
+  {
+   "bestmove": "a2a3",
+   "bestmove_cp": -4,
+   "fen": "rnbq1rk1/p4pp1/1p2pn1p/2pp4/1bPP1B2/2N1PN1P/PP3PP1/2RQKB1R w  Q   c 0 9",
+   "moveplayed": "f1e2",
+   "moveplayed_cp": -59,
+   "rating": -55
+  },
+  {
+   "bestmove": "d5c4",
+   "bestmove_cp": -59,
+   "fen": "rnbq1rk1/p4pp1/1p2pn1p/2pp4/1bPP1B2/2N1PN1P/PP2BPP1/2RQK2R b  Q   - 0 9",
+   "moveplayed": "b4c3",
+   "moveplayed_cp": 17,
+   "rating": -76
+  },
+  {
+   "bestmove": "c1c3",
+   "bestmove_cp": 17,
+   "fen": "rnbq1rk1/p4pp1/1p2pn1p/2pp4/2PP1B2/2b1PN1P/PP2BPP1/2RQK2R w  Q   - 0 10",
+   "moveplayed": "b2c3",
+   "moveplayed_cp": -39,
+   "rating": -56
+  },
+  {
+   "bestmove": "d5c4",
+   "bestmove_cp": -39,
+   "fen": "rnbq1rk1/p4pp1/1p2pn1p/2pp4/2PP1B2/2P1PN1P/P3BPP1/2RQK2R b  Q   - 0 10",
+   "moveplayed": "b8d7",
+   "moveplayed_cp": 38,
+   "rating": -77
+  },
+  {
+   "bestmove": "c4d5",
+   "bestmove_cp": 38,
+   "fen": "r1bq1rk1/p2n1pp1/1p2pn1p/2pp4/2PP1B2/2P1PN1P/P3BPP1/2RQK2R w  Q   - 0 11",
+   "moveplayed": "e1j2",
+   "moveplayed_cp": 34,
+   "rating": -4
+  },
+  {
+   "bestmove": "c8b7",
+   "bestmove_cp": 34,
+   "fen": "r1bq1rk1/p2n1pp1/1p2pn1p/2pp4/2PP1B2/2P1PN1P/P3BPP1/2RQ1RK1 b - - 0 11",
+   "moveplayed": "c8a6",
+   "moveplayed_cp": 88,
+   "rating": -54
+  },
+  {
+   "bestmove": "c4d5",
+   "bestmove_cp": 88,
+   "fen": "r2q1rk1/p2n1pp1/bp2pn1p/2pp4/2PP1B2/2P1PN1P/P3BPP1/2RQ1RK1 w - - 0 12",
+   "moveplayed": "c4d5",
+   "moveplayed_cp": 62,
+   "rating": -26
+  },
+  {
+   "bestmove": "a6e2",
+   "bestmove_cp": 62,
+   "fen": "r2q1rk1/p2n1pp1/bp2pn1p/2pP4/3P1B2/2P1PN1P/P3BPP1/2RQ1RK1 b - - 0 12",
+   "moveplayed": "a6e2",
+   "moveplayed_cp": 89,
+   "rating": -27
+  },
+  {
+   "bestmove": "d1e2",
+   "bestmove_cp": 89,
+   "fen": "r2q1rk1/p2n1pp1/1p2pn1p/2pP4/3P1B2/2P1PN1P/P3bPP1/2RQ1RK1 w - - 0 13",
+   "moveplayed": "d1e2",
+   "moveplayed_cp": 59,
+   "rating": -30
+  },
+  {
+   "bestmove": "e6d5",
+   "bestmove_cp": 59,
+   "fen": "r2q1rk1/p2n1pp1/1p2pn1p/2pP4/3P1B2/2P1PN1P/P3QPP1/2R2RK1 b - - 0 13",
+   "moveplayed": "e6d5",
+   "moveplayed_cp": 62,
+   "rating": -3
+  },
+  {
+   "bestmove": "c3c4",
+   "bestmove_cp": 62,
+   "fen": "r2q1rk1/p2n1pp1/1p3n1p/2pp4/3P1B2/2P1PN1P/P3QPP1/2R2RK1 w - - 0 14",
+   "moveplayed": "f3e5",
+   "moveplayed_cp": -27,
+   "rating": -89
+  },
+  {
+   "bestmove": "f8e8",
+   "bestmove_cp": -27,
+   "fen": "r2q1rk1/p2n1pp1/1p3n1p/2ppN3/3P1B2/2P1P2P/P3QPP1/2R2RK1 b - - 0 14",
+   "moveplayed": "a8c8",
+   "moveplayed_cp": 26,
+   "rating": -53
+  },
+  {
+   "bestmove": "f1d1",
+   "bestmove_cp": 26,
+   "fen": "2rq1rk1/p2n1pp1/1p3n1p/2ppN3/3P1B2/2P1P2P/P3QPP1/2R2RK1 w - - 0 15",
+   "moveplayed": "e2a6",
+   "moveplayed_cp": -13,
+   "rating": -39
+  },
+  {
+   "bestmove": "d7e5",
+   "bestmove_cp": -13,
+   "fen": "2rq1rk1/p2n1pp1/Qp3n1p/2ppN3/3P1B2/2P1P2P/P4PP1/2R2RK1 b - - 0 15",
+   "moveplayed": "f6e4",
+   "moveplayed_cp": 0,
+   "rating": -13
+  },
+  {
+   "bestmove": "e5d3",
+   "bestmove_cp": 0,
+   "fen": "2rq1rk1/p2n1pp1/Qp5p/2ppN3/3PnB2/2P1P2P/P4PP1/2R2RK1 w - - 0 16",
+   "moveplayed": "a6a7",
+   "moveplayed_cp": -63,
+   "rating": -63
+  },
+  {
+   "bestmove": "d7e5",
+   "bestmove_cp": -63,
+   "fen": "2rq1rk1/Q2n1pp1/1p5p/2ppN3/3PnB2/2P1P2P/P4PP1/2R2RK1 b - - 0 16",
+   "moveplayed": "d7e5",
+   "moveplayed_cp": -47,
+   "rating": -16
+  },
+  {
+   "bestmove": "f4e5",
+   "bestmove_cp": -47,
+   "fen": "2rq1rk1/Q4pp1/1p5p/2ppn3/3PnB2/2P1P2P/P4PP1/2R2RK1 w - - 0 17",
+   "moveplayed": "f4e5",
+   "moveplayed_cp": -60,
+   "rating": -13
+  },
+  {
+   "bestmove": "e4d2",
+   "bestmove_cp": -60,
+   "fen": "2rq1rk1/Q4pp1/1p5p/2ppB3/3Pn3/2P1P2P/P4PP1/2R2RK1 b - - 0 17",
+   "moveplayed": "f8e8",
+   "moveplayed_cp": 83,
+   "rating": -143
+  },
+  {
+   "bestmove": "c1c2",
+   "bestmove_cp": 83,
+   "fen": "2rqr1k1/Q4pp1/1p5p/2ppB3/3Pn3/2P1P2P/P4PP1/2R2RK1 w - - 0 18",
+   "moveplayed": "a7a6",
+   "moveplayed_cp": -23,
+   "rating": -106
+  },
+  {
+   "bestmove": "e4d2",
+   "bestmove_cp": -23,
+   "fen": "2rqr1k1/5pp1/Qp5p/2ppB3/3Pn3/2P1P2P/P4PP1/2R2RK1 b - - 0 18",
+   "moveplayed": "e4d2",
+   "moveplayed_cp": 28,
+   "rating": -51
+  },
+  {
+   "bestmove": "f1d1",
+   "bestmove_cp": 28,
+   "fen": "2rqr1k1/5pp1/Qp5p/2ppB3/3P4/2P1P2P/P2n1PP1/2R2RK1 w - - 0 19",
+   "moveplayed": "f1d1",
+   "moveplayed_cp": 35,
+   "rating": 7
+  },
+  {
+   "bestmove": "d2c4",
+   "bestmove_cp": 35,
+   "fen": "2rqr1k1/5pp1/Qp5p/2ppB3/3P4/2P1P2P/P2n1PP1/2RR2K1 b - - 0 19",
+   "moveplayed": "d2c4",
+   "moveplayed_cp": 46,
+   "rating": -11
+  },
+  {
+   "bestmove": "e5g3",
+   "bestmove_cp": 46,
+   "fen": "2rqr1k1/5pp1/Qp5p/2ppB3/2nP4/2P1P2P/P4PP1/2RR2K1 w - - 0 20",
+   "moveplayed": "e5g3",
+   "moveplayed_cp": 3,
+   "rating": -43
+  },
+  {
+   "bestmove": "c8a8",
+   "bestmove_cp": 3,
+   "fen": "2rqr1k1/5pp1/Qp5p/2pp4/2nP4/2P1P1BP/P4PP1/2RR2K1 b - - 0 20",
+   "moveplayed": "c8a8",
+   "moveplayed_cp": 16,
+   "rating": -13
+  },
+  {
+   "bestmove": "a6b5",
+   "bestmove_cp": 16,
+   "fen": "r2qr1k1/5pp1/Qp5p/2pp4/2nP4/2P1P1BP/P4PP1/2RR2K1 w - - 0 21",
+   "moveplayed": "a6b5",
+   "moveplayed_cp": 26,
+   "rating": 10
+  },
+  {
+   "bestmove": "a8a2",
+   "bestmove_cp": 26,
+   "fen": "r2qr1k1/5pp1/1p5p/1Qpp4/2nP4/2P1P1BP/P4PP1/2RR2K1 b - - 0 21",
+   "moveplayed": "a8a2",
+   "moveplayed_cp": 36,
+   "rating": -10
+  },
+  {
+   "bestmove": "c1a1",
+   "bestmove_cp": 36,
+   "fen": "3qr1k1/5pp1/1p5p/1Qpp4/2nP4/2P1P1BP/r4PP1/2RR2K1 w - - 0 22",
+   "moveplayed": "d4c5",
+   "moveplayed_cp": 24,
+   "rating": -12
+  },
+  {
+   "bestmove": "a2a5",
+   "bestmove_cp": 24,
+   "fen": "3qr1k1/5pp1/1p5p/1QPp4/2n5/2P1P1BP/r4PP1/2RR2K1 b - - 0 22",
+   "moveplayed": "a2a5",
+   "moveplayed_cp": 86,
+   "rating": -62
+  },
+  {
+   "bestmove": "b5c4",
+   "bestmove_cp": 86,
+   "fen": "3qr1k1/5pp1/1p5p/rQPp4/2n5/2P1P1BP/5PP1/2RR2K1 w - - 0 23",
+   "moveplayed": "b5b4",
+   "moveplayed_cp": 1,
+   "rating": -85
+  },
+  {
+   "bestmove": "a5c5",
+   "bestmove_cp": 1,
+   "fen": "3qr1k1/5pp1/1p5p/r1Pp4/1Qn5/2P1P1BP/5PP1/2RR2K1 b - - 0 23",
+   "moveplayed": "a5c5",
+   "moveplayed_cp": 14,
+   "rating": -13
+  },
+  {
+   "bestmove": "c1a1",
+   "bestmove_cp": 14,
+   "fen": "3qr1k1/5pp1/1p5p/2rp4/1Qn5/2P1P1BP/5PP1/2RR2K1 w - - 0 24",
+   "moveplayed": "c1a1",
+   "moveplayed_cp": 20,
+   "rating": 6
+  },
+  {
+   "bestmove": "d8g5",
+   "bestmove_cp": 20,
+   "fen": "3qr1k1/5pp1/1p5p/2rp4/1Qn5/2P1P1BP/5PP1/R2R2K1 b - - 0 24",
+   "moveplayed": "d8f6",
+   "moveplayed_cp": 31,
+   "rating": -11
+  },
+  {
+   "bestmove": "a1a7",
+   "bestmove_cp": 31,
+   "fen": "4r1k1/5pp1/1p3q1p/2rp4/1Qn5/2P1P1BP/5PP1/R2R2K1 w - - 0 25",
+   "moveplayed": "d1d4",
+   "moveplayed_cp": 0,
+   "rating": -31
+  },
+  {
+   "bestmove": "c4a5",
+   "bestmove_cp": 0,
+   "fen": "4r1k1/5pp1/1p3q1p/2rp4/1QnR4/2P1P1BP/5PP1/R5K1 b - - 0 25",
+   "moveplayed": "c4a5",
+   "moveplayed_cp": 0,
+   "rating": 0
+  },
+  {
+   "bestmove": "b4b1",
+   "bestmove_cp": 0,
+   "fen": "4r1k1/5pp1/1p3q1p/n1rp4/1Q1R4/2P1P1BP/5PP1/R5K1 w - - 0 26",
+   "moveplayed": "a1d1",
+   "moveplayed_cp": 0,
+   "rating": 0
+  },
+  {
+   "bestmove": "f6e6",
+   "bestmove_cp": 0,
+   "fen": "4r1k1/5pp1/1p3q1p/n1rp4/1Q1R4/2P1P1BP/5PP1/3R2K1 b - - 0 26",
+   "moveplayed": "f6e6",
+   "moveplayed_cp": 30,
+   "rating": -30
+  },
+  {
+   "bestmove": "b4b2",
+   "bestmove_cp": 30,
+   "fen": "4r1k1/5pp1/1p2q2p/n1rp4/1Q1R4/2P1P1BP/5PP1/3R2K1 w - - 0 27",
+   "moveplayed": "b4a4",
+   "moveplayed_cp": -6,
+   "rating": -36
+  },
+  {
+   "bestmove": "a5c4",
+   "bestmove_cp": -6,
+   "fen": "4r1k1/5pp1/1p2q2p/n1rp4/Q2R4/2P1P1BP/5PP1/3R2K1 b - - 0 27",
+   "moveplayed": "a5c4",
+   "moveplayed_cp": 12,
+   "rating": -18
+  },
+  {
+   "bestmove": "d1b1",
+   "bestmove_cp": 12,
+   "fen": "4r1k1/5pp1/1p2q2p/2rp4/Q1nR4/2P1P1BP/5PP1/3R2K1 w - - 0 28",
+   "moveplayed": "a4a2",
+   "moveplayed_cp": -26,
+   "rating": -38
+  },
+  {
+   "bestmove": "b6b5",
+   "bestmove_cp": -26,
+   "fen": "4r1k1/5pp1/1p2q2p/2rp4/2nR4/2P1P1BP/Q4PP1/3R2K1 b - - 0 28",
+   "moveplayed": "f7f5",
+   "moveplayed_cp": 34,
+   "rating": -60
+  },
+  {
+   "bestmove": "d1a1",
+   "bestmove_cp": 34,
+   "fen": "4r1k1/6p1/1p2q2p/2rp1p2/2nR4/2P1P1BP/Q4PP1/3R2K1 w - f 0 29",
+   "moveplayed": "g1h2",
+   "moveplayed_cp": 10,
+   "rating": -24
+  },
+  {
+   "bestmove": "e6f7",
+   "bestmove_cp": 10,
+   "fen": "4r1k1/6p1/1p2q2p/2rp1p2/2nR4/2P1P1BP/Q4PPK/3R4 b - - 0 29",
+   "moveplayed": "g8h7",
+   "moveplayed_cp": 19,
+   "rating": -9
+  },
+  {
+   "bestmove": "d1b1",
+   "bestmove_cp": 19,
+   "fen": "4r3/6pk/1p2q2p/2rp1p2/2nR4/2P1P1BP/Q4PPK/3R4 w - - 0 30",
+   "moveplayed": "d1a1",
+   "moveplayed_cp": 0,
+   "rating": -19
+  },
+  {
+   "bestmove": "c5a5",
+   "bestmove_cp": 0,
+   "fen": "4r3/6pk/1p2q2p/2rp1p2/2nR4/2P1P1BP/Q4PPK/R7 b - - 0 30",
+   "moveplayed": "c5a5",
+   "moveplayed_cp": 12,
+   "rating": -12
+  },
+  {
+   "bestmove": "a2b1",
+   "bestmove_cp": 12,
+   "fen": "4r3/6pk/1p2q2p/r2p1p2/2nR4/2P1P1BP/Q4PPK/R7 w - - 0 31",
+   "moveplayed": "a2b1",
+   "moveplayed_cp": -66,
+   "rating": -78
+  },
+  {
+   "bestmove": "e8a8",
+   "bestmove_cp": -66,
+   "fen": "4r3/6pk/1p2q2p/r2p1p2/2nR4/2P1P1BP/5PPK/RQ6 b - - 0 31",
+   "moveplayed": "e8a8",
+   "moveplayed_cp": -135,
+   "rating": 69
+  },
+  {
+   "bestmove": "a1a5",
+   "bestmove_cp": -135,
+   "fen": "r7/6pk/1p2q2p/r2p1p2/2nR4/2P1P1BP/5PPK/RQ6 w - - 0 32",
+   "moveplayed": "a1a5",
+   "moveplayed_cp": -130,
+   "rating": 5
+  },
+  {
+   "bestmove": "b6a5",
+   "bestmove_cp": -130,
+   "fen": "r7/6pk/1p2q2p/R2p1p2/2nR4/2P1P1BP/5PPK/1Q6 b - - 0 32",
+   "moveplayed": "b6a5",
+   "moveplayed_cp": -81,
+   "rating": -49
+  },
+  {
+   "bestmove": "b1b7",
+   "bestmove_cp": -81,
+   "fen": "r7/6pk/4q2p/p2p1p2/2nR4/2P1P1BP/5PPK/1Q6 w - - 0 33",
+   "moveplayed": "b1b5",
+   "moveplayed_cp": -199,
+   "rating": -118
+  },
+  {
+   "bestmove": "a5a4",
+   "bestmove_cp": -199,
+   "fen": "r7/6pk/4q2p/pQ1p1p2/2nR4/2P1P1BP/5PPK/8 b - - 0 33",
+   "moveplayed": "a5a4",
+   "moveplayed_cp": -125,
+   "rating": -74
+  },
+  {
+   "bestmove": "d4d5",
+   "bestmove_cp": -125,
+   "fen": "r7/6pk/4q2p/1Q1p1p2/p1nR4/2P1P1BP/5PPK/8 w - - 0 34",
+   "moveplayed": "d4d5",
+   "moveplayed_cp": -150,
+   "rating": -25
+  },
+  {
+   "bestmove": "a8a5",
+   "bestmove_cp": -150,
+   "fen": "r7/6pk/4q2p/1Q1R1p2/p1n5/2P1P1BP/5PPK/8 b - - 0 34",
+   "moveplayed": "a4a3",
+   "moveplayed_cp": -142,
+   "rating": -8
+  },
+  {
+   "bestmove": "d5d1",
+   "bestmove_cp": -142,
+   "fen": "r7/6pk/4q2p/1Q1R1p2/2n5/p1P1P1BP/5PPK/8 w - - 0 35",
+   "moveplayed": "b5c4",
+   "moveplayed_cp": -469,
+   "rating": -327
+  },
+  {
+   "bestmove": "a3a2",
+   "bestmove_cp": -469,
+   "fen": "r7/6pk/4q2p/3R1p2/2Q5/p1P1P1BP/5PPK/8 b - - 0 35",
+   "moveplayed": "a3a2",
+   "moveplayed_cp": -466,
+   "rating": -3
+  },
+  {
+   "bestmove": "c4d4",
+   "bestmove_cp": -466,
+   "fen": "r7/6pk/4q2p/3R1p2/2Q5/2P1P1BP/p4PPK/8 w - - 0 36",
+   "moveplayed": "d5d8",
+   "moveplayed_cp": -400,
+   "rating": 66
+  },
+  {
+   "bestmove": "e6c4",
+   "bestmove_cp": -400,
+   "fen": "r2R4/6pk/4q2p/5p2/2Q5/2P1P1BP/p4PPK/8 b - - 0 36",
+   "moveplayed": "e6c4"
+  }
+ ],
+ "data": {
+  "game": {
+   "clock": "10+0",
+   "id": "mNwxGpSS",
+   "perf": {
+    "icon": "",
+    "name": "Rapid"
+   },
+   "pgn": "d4 d5 c4 e6 Nf3 Nf6 Nc3 h6 Bf4 Bb4 e3 O-O h3 b6 Rc1 c5 Be2 Bxc3+ bxc3 Nbd7 O-O Ba6 cxd5 Bxe2 Qxe2 exd5 Ne5 Rc8 Qa6 Ne4 Qxa7 Nxe5 Bxe5 Re8 Qa6 Nd2 Rfd1 Nc4 Bg3 Ra8 Qb5 Rxa2 dxc5 Ra5 Qb4 Rxc5 Ra1 Qf6 Rd4 Na5 Rad1 Qe6 Qa4 Nc4 Qa2 f5 Kh2 Kh7 Ra1 Ra5 Qb1 Rea8 Rxa5 bxa5 Qb5 a4 Rxd5 a3 Qxc4",
+   "players": [
+    {
+     "color": "white",
+     "name": "CupkoTurko (1864)",
+     "userId": "cupkoturko"
+    },
+    {
+     "color": "black",
+     "name": "Baranyagmur (2097)",
+     "userId": "baranyagmur"
+    }
+   ],
+   "rated": true
+  },
+  "puzzle": {
+   "id": "6Zr40",
+   "initialPly": 68,
+   "plays": 13466,
+   "rating": 1825,
+   "solution": [
+    "a3a2",
+    "d5d8",
+    "e6c4"
+   ],
+   "themes": [
+    "endgame",
+    "advantage",
+    "advancedPawn",
+    "short"
+   ]
+  }
+ },
+ "render": {
+  "defaultTime": 40,
+  "frameRate": 60
+ }
+}

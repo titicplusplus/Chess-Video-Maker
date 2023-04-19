@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['saveallsettings_246',['saveAllSettings',['../classChessWindow.html#aa8679c802d9544eb7119e3f4886855b1',1,'ChessWindow']]],
+  ['savejson_247',['saveJson',['../classChessWindow.html#a7f83d866dacd8691e0527329feb23a63',1,'ChessWindow']]],
+  ['savemusic_248',['SaveMusic',['../classSaveMusic.html#a449085be3f33e38cded78aa800441fb3',1,'SaveMusic']]],
+  ['savetofile_249',['saveToFile',['../classSaveMusic.html#a24c563f30a84376f6769f9f8f6841896',1,'SaveMusic']]],
+  ['setarray_250',['setArray',['../classChessParser.html#aa90aada96a4da824f6373aab5f48e302',1,'ChessParser']]],
+  ['seteffect_251',['setEffect',['../classJsonCommand.html#a230938d90ace6c9f92f406ee4151ad99',1,'JsonCommand::setEffect()'],['../classEffect_1_1Main.html#a339661cb72900eb62be1db09e3d587c1',1,'Effect::Main::setEffect()'],['../classEffect_1_1GreenBackground.html#abb8d2a5afb881707d58a264469f30333',1,'Effect::GreenBackground::setEffect()'],['../classEffect_1_1Voice.html#a52df70c14077313af5e26621b0397d09',1,'Effect::Voice::setEffect()']]],
+  ['setframetransitionspejson_252',['setFrameTransitionSpeJson',['../classRenderImage.html#a34f1b70074d41009e10182d83393c16f',1,'RenderImage']]],
+  ['setimageforground_253',['setImageForground',['../classEffect_1_1GreenBackground.html#ab3fb0d83b6071429ade505b35c810d3c',1,'Effect::GreenBackground']]],
+  ['setrect_254',['setRect',['../classCamera.html#a1d749db7f7a87dc3f9fb820d3ba2de9b',1,'Camera']]],
+  ['settextvalue_255',['setTextValue',['../classChessWindow.html#a5a253a3cdb2be2552d8fc8ecbe77d700',1,'ChessWindow']]],
+  ['settransitionide_256',['setTransitionIDE',['../classJsonCommand.html#a14da2b25a082b55e31efea3356482cf8',1,'JsonCommand']]],
+  ['settransparency_257',['setTransparency',['../namespaceDefault.html#a76eed866e9964be252092dd59c463bd4',1,'Default']]],
+  ['setupnewimage_258',['setupNewImage',['../classChessWindow.html#ad816b07a0ad3da6a734f8811757bdbed',1,'ChessWindow']]],
+  ['setupnewtrcameraeffect_259',['setupNewTrCameraEffect',['../classJsonCommand.html#a94b40cd63a6c166f7b841e77b087b53c',1,'JsonCommand']]],
+  ['setuppgnadvance_260',['setupPgnAdvance',['../classChessParser.html#a6b45ecf04727ffb6b22d44b32162a4e7',1,'ChessParser']]],
+  ['sizecmoveide_261',['sizeCmoveIDE',['../classRenderImage.html#afd73a43c9665b3a363c6d5714c9cc563',1,'RenderImage']]],
+  ['startide_262',['startIDE',['../classRenderImage.html#a34e997275c6e7b91c35155d2337d72f2',1,'RenderImage']]],
+  ['stockfishcom_263',['StockFishCom',['../classStockFishCom.html#a1f4b685f383dcaf29ed1b96179442134',1,'StockFishCom']]]
+];

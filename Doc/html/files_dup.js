@@ -1,0 +1,25 @@
+var files_dup =
+[
+    [ "camera.hpp", "camera_8hpp_source.html", null ],
+    [ "ChessAutoMaker.hpp", "ChessAutoMaker_8hpp_source.html", null ],
+    [ "ChessDialog.hpp", "ChessDialog_8hpp_source.html", null ],
+    [ "ChessParser.hpp", "ChessParser_8hpp_source.html", null ],
+    [ "ChessRenderImage.hpp", "ChessRenderImage_8hpp_source.html", null ],
+    [ "ChessWindow.hpp", "ChessWindow_8hpp_source.html", null ],
+    [ "CsvReader.hpp", "CsvReader_8hpp_source.html", null ],
+    [ "default.hpp", "default_8hpp_source.html", null ],
+    [ "DetectEvent.hpp", "DetectEvent_8hpp_source.html", null ],
+    [ "effect.hpp", "effect_8hpp_source.html", null ],
+    [ "getpuzzle.hpp", "getpuzzle_8hpp_source.html", null ],
+    [ "GreenBackground.hpp", "GreenBackground_8hpp_source.html", null ],
+    [ "IDECode.hpp", "IDECode_8hpp_source.html", null ],
+    [ "JsonCommand.hpp", "JsonCommand_8hpp_source.html", null ],
+    [ "MultiAccess.hpp", "MultiAccess_8hpp_source.html", null ],
+    [ "OpenMusic.hpp", "OpenMusic_8hpp_source.html", null ],
+    [ "Ressources.hpp", "Ressources_8hpp_source.html", null ],
+    [ "SaveMusic.hpp", "SaveMusic_8hpp_source.html", null ],
+    [ "StockFishCom.hpp", "StockFishCom_8hpp_source.html", null ],
+    [ "StockFishUCI.hpp", "StockFishUCI_8hpp_source.html", null ],
+    [ "SyntaxJson.hpp", "SyntaxJson_8hpp_source.html", null ],
+    [ "voice.hpp", "voice_8hpp_source.html", null ]
+];

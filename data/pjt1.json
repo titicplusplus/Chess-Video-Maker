@@ -1,0 +1,38 @@
+{
+	"data": {"game":{"id":"YTWvFekk","perf":{"icon":"","name":"Blitz"},"rated":true,"players":[{"userId":"schackdoktorn","name":"Schackdoktorn (1661)","color":"white"},{"userId":"archibishop123456","name":"archibishop123456 (1660)","color":"black"}],"pgn":"e4 e5 Nf3 Nc6 c3 Bc5 d4 exd4 cxd4 Bb4+ Bd2 Qe7 Bd3 Nf6 O-O Bxd2 Nbxd2 O-O e5 Nd5 Ne4 d6 Nfg5 dxe5 Nxh7 Kxh7","clock":"5+3"},"puzzle":{"id":"n7i9N","rating":2037,"plays":128063,"initialPly":25,"solution":["e4f6","h7h6","d1h5"],"themes":["mateIn2","middlegame","short","doubleCheck"]}},
+
+	"render": {
+		"defaultTime": 16,
+		"frameRate": 24,
+
+		"0end": [
+			{
+				"fcam": true,
+				"cam": [0.5, 4, 0.5, 8, 8, 0.5],
+				"time": 20
+			},
+			{
+				"fcam" : true,
+				"cam" : [4, 8, 0.5],
+				"time": "Effect",
+				"sound": ["Effect", 0.5],
+				"Voice" : "Hi, I just want say one thing"
+			},
+			{
+				"fcam": true,
+				"cam": [4, 0.5, 8, 0.5, 0.5, 8],
+				"time": 5
+			}
+		],
+
+		"2middle": [
+			{
+				"fcam": true,
+				"cam": [0, 0.5],
+				"sound": ["any", 0.3],
+				"GreenBackground": ["SpeedlineManga2.avi", -1, -1, 0.5, 0.5,
+							0, 1, 0]
+			}
+		]
+	}
+}

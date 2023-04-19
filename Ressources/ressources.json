@@ -1,0 +1,488 @@
+{
+  "type": [
+    "thinking",
+    "sad",
+    "waiting",
+    "surprise",
+    "badmove",
+    "movefast",
+    "goodmove",
+    "win",
+    "kill",
+    "angry",
+    "bugplayer"
+  ],
+  "size": [
+    "all",
+    "piece"
+  ],
+  "video": [
+    {
+      "type": "thinking",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "waiting",
+      "size": "all",
+      "green": false,
+      "time": "all"
+    },
+    {
+      "type": "surprise",
+      "size": "all",
+      "green": true,
+      "time": "all"
+    },
+    {
+      "type": "badmove",
+      "size": "all",
+      "green": false,
+      "time": [
+        [
+          3.1,
+          5
+        ],
+        [
+          3.1,
+          10.5
+        ],
+        [
+          0,
+          10.5
+        ]
+      ]
+    },
+    {
+      "type": "movefast",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "goodmove, movefast",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 2.6
+      }
+    },
+    {
+      "type": "sad",
+      "size": "all, piece",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "badmove",
+      "size": "all",
+      "green": false,
+      "time": "all"
+    },
+    {
+      "type": "badmove, surprise",
+      "size": "all",
+      "green": false,
+      "time": "any"
+    },
+    {
+      "type": "goodmove, win",
+      "size": "piece",
+      "green": true,
+      "time": {
+        "max": 9.5,
+        "speed": 2
+      }
+    },
+    {
+      "type": "surprise",
+      "size": "all",
+      "green": false,
+      "time": [
+        [
+          0.3,
+          2.1
+        ]
+      ]
+    },
+    {
+      "type": "kill",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 0.9,
+        "speed": 1.5
+      }
+    },
+    {
+      "type": "win",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "surprise",
+      "size": "all, piece",
+      "green": true,
+      "time": {
+        "min": 0.9,
+        "max": 2.5
+      }
+    },
+    {
+      "type": "surprise",
+      "size": "piece",
+      "green": true,
+      "time": {
+        "min": 0.1,
+        "dmin": 1,
+        "max": 3
+      }
+    },
+    {
+      "type": "surprise",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          0.1,
+          1
+        ]
+      ]
+    },
+    {
+      "type": "sad, badmove",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "sad, badmove",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "sad, badmove",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 3,
+        "max": 6.5
+      }
+    },
+    {
+      "type": "goodmove, win",
+      "size": "piece",
+      "green": true,
+      "time": {
+        "dmin": 2.5,
+        "speed": 2
+      }
+    },
+    {
+      "type": "movefast, goodmove, surprise",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 0.1,
+        "max": 1.8
+      }
+    },
+    {
+      "type": "kill",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 2.5,
+        "max": 6
+      }
+    },
+    {
+      "type": "goodmove, surprise",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          2.5,
+          4.5
+        ]
+      ]
+    },
+    {
+      "type": "surprise, angry",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "badmove, surprise",
+      "size": "all",
+      "green": false,
+      "time": [
+        [
+          0,
+          1.5
+        ],
+        [
+          0,
+          4
+        ]
+      ]
+    },
+    {
+      "type": "badmove, surprise",
+      "size": "all",
+      "green": false,
+      "time": [
+        [
+          2,
+          4
+        ],
+        [
+          1,
+          4
+        ]
+      ]
+    },
+    {
+      "type": "movefast, win, goodmove",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "badmove",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "bugplayer",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "surprise",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 6.8
+      }
+    },
+    {
+      "type": "goodmove, badmove, bugplayer",
+      "size": "all",
+      "green": true,
+      "time": "all"
+    },
+    {
+      "type": "badmove",
+      "size": "all",
+      "green": false,
+      "time": [
+        [
+          0.6,
+          1.8
+        ],
+        [
+          0,
+          1.8
+        ]
+      ]
+    },
+    {
+      "type": "kill",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 3.5
+      }
+    },
+    {
+      "type": "badmove, bugplayer",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          0,
+          2
+        ]
+      ]
+    },
+    {
+      "type": "badmove, bugplayer, sad, surprise",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 0.1
+      }
+    },
+    {
+      "type": "goodmove, win",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 0.1
+      }
+    },
+    {
+      "type": "kill",
+      "size": "all",
+      "green": false,
+      "time": {
+        "min": 0,
+        "max": 40
+      }
+    },
+    {
+      "type": "surprise",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "type": "goodmove, win",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          0.8,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    },
+    {
+      "type": "goodmove, win",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 1
+      }
+    },
+    {
+      "type": "kill",
+      "size": "piece",
+      "green": true,
+      "time": {
+        "min": 2,
+        "max": 8,
+        "dmin": 4,
+        "speed": 2
+      }
+    },
+    {
+      "type": "badmove, bugplayer, goodmove",
+      "size": "all",
+      "green": true,
+      "time": "all"
+    },
+    {
+      "type": "win, goodmove",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          0.5,
+          2
+        ],
+        [
+          0.5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "sad",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "goodmove",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          0.5,
+          1.8
+        ]
+      ]
+    },
+    {
+      "type": "badmove",
+      "size": "all",
+      "green": false,
+      "time": {
+        "min": 0.5,
+        "max": 10
+      }
+    },
+    {
+      "type": "goodmove, win",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "movefast",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "sad, badmove",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          4.5,
+          6
+        ]
+      ]
+    },
+    {
+      "type": "kill",
+      "size": "all",
+      "green": true,
+      "time": {
+        "min": 1.2,
+        "dmin": 2
+      }
+    },
+    {
+      "type": "goodmove, surprise",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    },
+    {
+      "type": "angry",
+      "size": "all",
+      "green": true,
+      "time": [
+        [
+          3.2,
+          4.8
+        ]
+      ]
+    },
+    {
+      "type": "goodmove, surprise, bugplayer",
+      "size": "all",
+      "green": true,
+      "time": "any"
+    }
+  ]
+}

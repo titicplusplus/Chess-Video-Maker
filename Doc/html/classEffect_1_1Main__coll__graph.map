@@ -1,0 +1,4 @@
+<map id="Effect::Main" name="Effect::Main">
+<area shape="rect" id="node1" title="The main class for the effect." alt="" coords="5,95,104,121"/>
+<area shape="rect" id="node2" href="$classCamera.html" title="the goal of this class is to move the camera" alt="" coords="18,5,91,32"/>
+</map>

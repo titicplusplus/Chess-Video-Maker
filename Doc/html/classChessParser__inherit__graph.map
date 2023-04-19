@@ -1,0 +1,4 @@
+<map id="ChessParser" name="ChessParser">
+<area shape="rect" id="node1" title="Class to read and execute Pgn std::string." alt="" coords="7,5,108,32"/>
+<area shape="rect" id="node2" href="$classDetectChess.html" title="the goal of this class is to find trigger event" alt="" coords="5,80,109,107"/>
+</map>

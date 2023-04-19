@@ -1,0 +1,123 @@
+{
+	"frameRate" : 60,
+	"defaultTime": 40,
+
+	"0end": [
+		{
+			"fcam": true,
+			"cam": [0.5, 4, 0.5, 8, 8, 0.5],
+			"time": 20
+		},
+		{
+			"fcam" : true,
+			"cam" : [4, 8, 0.5],
+			"time": "Effect",
+			"sound": ["Effect", 0.5],
+			"Voice" : "Hi, I just want say one thing"
+		},
+		{
+			"fcam" : true,
+			"cam" : [4, 8, 0.5],
+			"time": "Effect",
+			"sound": ["Effect", 0.5],
+			"Voice" : "Do your prayers!"
+		},
+		{
+			"fcam": true,
+			"cam": [4, 4, 8, 0, 0.5, 0.5],
+			"time": 5
+		},
+		{
+			"fcam" : true,
+			"cam" : [4, 0, 0.5],
+			"time": "Effect",
+			"sound": ["Effect", 0.5],
+			"Voice" : "Me lose?"
+		},
+		{
+			"fcam" : true,
+			"cam" : [4, 0, 0.5],
+			"time": "Effect",
+			"sound": ["Effect", 0.5],
+			"Voice" : "It is physically impossible!"
+		},
+		{
+			"fcam": true,
+			"cam": [4, 4, 0, 8, 0.5, 0.5],
+			"time": 5
+		},
+		{ 
+			"fcam" : true,
+			"cam" : [4, 8, 0.5],
+			"time": "Effect",
+			"sound": ["Effect", 0.5],
+			"Voice" : "So let's begin !"
+		},
+		{
+			"fcam": true,
+			"cam": [4, 0.5, 8, 0.5, 0.5, 8],
+			"time": 5
+		}	
+	],
+
+	"1end" : [
+		{
+			"fcam": true,
+			"cam": [0.5, 4, 0.5, 4, 8, 0.5],
+			"time": 5
+		},
+		{
+			"fcam": true,
+			"cam": [4, 4, 0.5],
+			"time": "Effect",
+			"GreenBackground": ["explo2.avi", -1, 0.8, 0.5, 0.5,
+						0, 0.5, 0],
+			"sound": ["sound/WindowsXPError1.wav", 0.3]
+		}
+	],
+
+	"2middle": [
+		{
+			"fcam": true,
+			"cam": [0, 0.5],
+			"sound": ["any", 0.3],
+			"GreenBackground": ["SpeedlineManga2.avi", -1, -1, 0.5, 0.5,
+						0, 1, 0]
+		}
+	],
+
+	"3middle": [
+		{
+			"fcam": true,
+			"cam": [1, 0.3],
+			"time": "Effect",
+			"sound": ["any", 0.3],
+			"GreenBackground": ["SpeedlineManga2.avi", -1, -1, 0.5, 0.5,
+						0, 1, 0]
+
+		}
+	],
+
+	"4middle": [
+		{
+			"fcam": true,
+			"cam": [2, 0.5],
+			"time": "Effect",
+			"sound": ["Effect", 0.5],
+			"GreenBackground": ["ThugLife1.avi", 0.8, 0.8, 0.5, 0.5,
+				0, 0.5, 0.7]
+		}
+	],
+
+	"4end": [
+		{
+			"fcam": true,
+			"cam": [2, 0.5],
+			"time": 60,
+			"sound": ["any", 0.3],
+			"GreenBackground": ["ThugLife1.avi", 0.8, 0.8, 0.5, 0.5,
+				0.4, 0.6, 0]
+
+		}
+	]
+}

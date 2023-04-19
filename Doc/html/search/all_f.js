@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['saveallsettings_100',['saveAllSettings',['../classChessWindow.html#aa8679c802d9544eb7119e3f4886855b1',1,'ChessWindow']]],
+  ['savejson_101',['saveJson',['../classChessWindow.html#a7f83d866dacd8691e0527329feb23a63',1,'ChessWindow']]],
+  ['savemusic_102',['SaveMusic',['../classSaveMusic.html',1,'SaveMusic'],['../classSaveMusic.html#a449085be3f33e38cded78aa800441fb3',1,'SaveMusic::SaveMusic()']]],
+  ['savetofile_103',['saveToFile',['../classSaveMusic.html#a24c563f30a84376f6769f9f8f6841896',1,'SaveMusic']]],
+  ['setarray_104',['setArray',['../classChessParser.html#aa90aada96a4da824f6373aab5f48e302',1,'ChessParser']]],
+  ['seteffect_105',['setEffect',['../classJsonCommand.html#a230938d90ace6c9f92f406ee4151ad99',1,'JsonCommand::setEffect()'],['../classEffect_1_1Main.html#a339661cb72900eb62be1db09e3d587c1',1,'Effect::Main::setEffect()'],['../classEffect_1_1GreenBackground.html#abb8d2a5afb881707d58a264469f30333',1,'Effect::GreenBackground::setEffect()'],['../classEffect_1_1Voice.html#a52df70c14077313af5e26621b0397d09',1,'Effect::Voice::setEffect()']]],
+  ['setframetransitionspejson_106',['setFrameTransitionSpeJson',['../classRenderImage.html#a34f1b70074d41009e10182d83393c16f',1,'RenderImage']]],
+  ['setimageforground_107',['setImageForground',['../classEffect_1_1GreenBackground.html#ab3fb0d83b6071429ade505b35c810d3c',1,'Effect::GreenBackground']]],
+  ['setrect_108',['setRect',['../classCamera.html#a1d749db7f7a87dc3f9fb820d3ba2de9b',1,'Camera']]],
+  ['settextvalue_109',['setTextValue',['../classChessWindow.html#a5a253a3cdb2be2552d8fc8ecbe77d700',1,'ChessWindow']]],
+  ['settransitionide_110',['setTransitionIDE',['../classJsonCommand.html#a14da2b25a082b55e31efea3356482cf8',1,'JsonCommand']]],
+  ['settransparency_111',['setTransparency',['../namespaceDefault.html#a76eed866e9964be252092dd59c463bd4',1,'Default']]],
+  ['setupnewimage_112',['setupNewImage',['../classChessWindow.html#ad816b07a0ad3da6a734f8811757bdbed',1,'ChessWindow']]],
+  ['setupnewtrcameraeffect_113',['setupNewTrCameraEffect',['../classJsonCommand.html#a94b40cd63a6c166f7b841e77b087b53c',1,'JsonCommand']]],
+  ['setuppgnadvance_114',['setupPgnAdvance',['../classChessParser.html#a6b45ecf04727ffb6b22d44b32162a4e7',1,'ChessParser']]],
+  ['sizecmoveide_115',['sizeCmoveIDE',['../classRenderImage.html#afd73a43c9665b3a363c6d5714c9cc563',1,'RenderImage']]],
+  ['start_116',['START',['../classJsonCommand.html#ac8167b4a229a1d9dbd8c70c098dc5432a20ca720601f7ea341e2d2bd8e0e3ea06',1,'JsonCommand']]],
+  ['startide_117',['startIDE',['../classRenderImage.html#a34e997275c6e7b91c35155d2337d72f2',1,'RenderImage']]],
+  ['static_5fmanual_118',['STATIC_MANUAL',['../classJsonCommand.html#aa97fafd961ef0dc7943f72a7853cfb58a0596be038959eb383a24551a1210c61c',1,'JsonCommand']]],
+  ['stockfishcom_119',['StockFishCom',['../classStockFishCom.html',1,'StockFishCom'],['../classStockFishCom.html#a1f4b685f383dcaf29ed1b96179442134',1,'StockFishCom::StockFishCom()']]],
+  ['stockfishinfo_120',['StockFishInfo',['../structStockFishInfo.html',1,'']]],
+  ['stockfishuci_121',['StockFishUCI',['../classStockFishUCI.html',1,'']]]
+];
